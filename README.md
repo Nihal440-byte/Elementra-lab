@@ -27,3 +27,11 @@ The directory includes all 118 recognized elements. Values are concise education
 
 ## Technologies
 HTML5 · CSS3 · Vanilla JavaScript · Responsive layout
+
+## Git Assignment - Task 4
+
+Project files updated successfully.
+
+Changes committed and pushed to GitHub.
+
+Repository update verification completed.
